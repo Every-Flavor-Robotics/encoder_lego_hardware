@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Magntek")(type "KiCad")(uri "U:/Eng. Projects/Roam/encoder_go/Magnteklib")(options "")(descr ""))
+)
